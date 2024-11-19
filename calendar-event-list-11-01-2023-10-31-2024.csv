@@ -1,0 +1,314 @@
+Id,Start,Name,Impact,Currency
+d4720e81-a24e-40a9-9b1a-3f4066dfadce,11/1/2023 12:15,ADP Employment Change,HIGH,USD
+796dd4d3-5a03-4c89-b252-e9d61a5c723a,11/1/2023 14:00,ISM Manufacturing PMI,HIGH,USD
+eef432f1-deec-4d79-b6ea-653be4979124,11/1/2023 18:00,Fed Interest Rate Decision,HIGH,USD
+083a2802-4561-49d5-b869-5991bb1a4833,11/1/2023 18:00,Fed Monetary Policy Statement,HIGH,USD
+00880780-79ae-4bf3-84f4-4dc8e09fa1ed,11/1/2023 18:30,FOMC Press Conference,HIGH,USD
+f3111b22-f44a-4298-a51f-309ba716f529,11/3/2023 12:30,Average Hourly Earnings (MoM),HIGH,USD
+ae3148ff-3760-4c93-902d-c79fd7a68dea,11/3/2023 12:30,Average Hourly Earnings (YoY),HIGH,USD
+4a570a5e-82b9-404e-aceb-fa731384690f,11/3/2023 12:30,Nonfarm Payrolls,HIGH,USD
+9abd3965-c2b6-410e-9b64-f5a6d1f9c1b4,11/3/2023 14:00,ISM Services PMI,HIGH,USD
+40e04a22-96da-4158-a73d-7b4412275d8a,11/7/2023 12:30,Fed's Kashkari speech,HIGH,USD
+e00dbcb4-fd18-4463-a7e5-923647bc8703,11/7/2023 13:00,Fed's Goolsbee speech,HIGH,USD
+67b0d87f-8611-4518-9a08-01d1feb59f4f,11/7/2023 18:25,Fed's Logan speech,HIGH,USD
+deafd292-b2e6-4afd-a844-10b9323e64cf,11/8/2023 14:15,Fed's Chair Powell speech,HIGH,USD
+87dd84bf-b250-4879-9f68-a8503a0c6621,11/9/2023 19:00,Fed's Chair Powell speech,HIGH,USD
+406d86fa-c159-41d8-9cbe-4d566205ebdc,11/10/2023 15:00,Michigan Consumer Sentiment Index,HIGH,USD
+a249d360-98d8-4f87-9e9c-598c7da033c5,11/14/2023 13:30,Consumer Price Index (MoM),HIGH,USD
+8f197ee2-9cc9-43bc-ad8b-b21233ad4936,11/14/2023 13:30,Consumer Price Index (YoY),HIGH,USD
+148bbbb8-00ca-4587-8aa9-35a6c0741a1a,11/14/2023 13:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+ae7ed679-bcbb-4ad1-b722-ea0cc976a49e,11/14/2023 13:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+5bb4e65a-39c9-4617-9c7d-4027fe91a1f0,11/15/2023 13:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+67581150-c617-46da-bd74-f83d93aeb93a,11/15/2023 13:30,Retail Sales (MoM),HIGH,USD
+1a0ddb33-26c4-44e9-832a-3139eba1a7d2,11/15/2023 13:30,Retail Sales Control Group,HIGH,USD
+5794d4d1-7965-4ca7-961d-12eeeb92d6c3,11/21/2023 19:00,FOMC Minutes,HIGH,USD
+58dd275c-a7c5-4a39-8928-a96c2cc351be,11/24/2023 14:45,S&P Global Manufacturing PMI,HIGH,USD
+a82a195e-48c0-445f-bd38-d00de8dd7177,11/24/2023 14:45,S&P Global Services PMI,HIGH,USD
+168f998b-8f1f-48f7-9eb2-b7fabfe6724f,11/29/2023 13:30,Gross Domestic Product Annualized,HIGH,USD
+6e3cb53e-039a-4811-9654-b65a3f00acc3,11/30/2023 13:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+7b29746b-52df-48ac-87c3-dad466ffbc65,11/30/2023 13:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+337b6e1f-c1ac-443b-9fcc-e2b94b1c4a1b,12/1/2023 15:00,ISM Manufacturing PMI,HIGH,USD
+a3600c8e-6f2f-4fc6-a81e-201075552ec8,12/1/2023 16:00,Fed's Chair Powell speech,HIGH,USD
+5bbe68e4-d502-40b5-bc6d-31c5184958e0,12/1/2023 19:00,Fed's Chair Powell speech,HIGH,USD
+7d2b7059-2ca7-414b-8cd3-d94512c4976a,12/5/2023 15:00,ISM Services PMI,HIGH,USD
+4eb66893-fedb-4175-8405-7455e6edc567,12/6/2023 13:15,ADP Employment Change,HIGH,USD
+8d75a420-1fe6-40b7-a316-78fd100653a6,12/8/2023 13:30,Average Hourly Earnings (MoM),HIGH,USD
+222e9603-ddc8-4b56-8df7-657930c30d1a,12/8/2023 13:30,Average Hourly Earnings (YoY),HIGH,USD
+2cca1981-32a4-4f6e-abed-ad178efe70ee,12/8/2023 13:30,Nonfarm Payrolls,HIGH,USD
+99ac86b6-5cbb-434d-99b1-229a259580f8,12/8/2023 15:00,Michigan Consumer Sentiment Index,HIGH,USD
+fdbd79b6-53ca-43e5-a22a-94908b09b1a5,12/12/2023 13:30,Consumer Price Index (MoM),HIGH,USD
+c29a5acf-fab8-41f2-8012-bfb66286847a,12/12/2023 13:30,Consumer Price Index (YoY),HIGH,USD
+a47b1691-4ac4-4561-9660-e53afc96e65f,12/12/2023 13:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+cf984770-8d6e-424b-b9f2-098faeef97fb,12/12/2023 13:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+8125db56-31a1-494d-bbf2-8b4a5a72a9b9,12/13/2023 13:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+6b83c779-69f4-40ab-b55b-7f40bcbcce3c,12/13/2023 19:00,Fed Interest Rate Decision,HIGH,USD
+7dd50543-a7c8-4d80-8de4-e4707e465839,12/13/2023 19:00,Fed Monetary Policy Statement,HIGH,USD
+766624a5-27c5-4ff2-ad2f-0a252a4d4c6f,12/13/2023 19:00,FOMC Economic Projections,HIGH,USD
+d9cec262-e9ac-43ca-a82c-f27c93344c04,12/13/2023 19:00,Interest Rate Projections - 1st year,HIGH,USD
+ff3a29f3-5377-40af-a8a4-f785939e481f,12/13/2023 19:00,Interest Rate Projections - 2nd year,HIGH,USD
+8f4c9ffd-80c0-41b8-a73b-b85cedc238cf,12/13/2023 19:00,Interest Rate Projections - 3rd year,HIGH,USD
+d0ee0dea-b570-41b8-b1e9-c30ffc2c28f9,12/13/2023 19:00,Interest Rate Projections - Current,HIGH,USD
+6e28f018-83e3-4843-aa60-5ad80624e457,12/13/2023 19:00,Interest Rate Projections - Longer,HIGH,USD
+2acd1bd3-a5a9-4828-9930-01fa41bba498,12/13/2023 19:30,FOMC Press Conference,HIGH,USD
+03d036a9-7a36-4e7f-a359-940066a111fe,12/14/2023 13:30,Retail Sales (MoM),HIGH,USD
+bba7f808-0d89-4758-909f-dc106688e94f,12/14/2023 13:30,Retail Sales Control Group,HIGH,USD
+ed206595-d0f4-41fa-9e99-7e4087662164,12/15/2023 14:45,S&P Global Manufacturing PMI,HIGH,USD
+e80df6c3-9a7f-45af-9cc3-9e6e14400e18,12/15/2023 14:45,S&P Global Services PMI,HIGH,USD
+63e7876b-d331-4e8b-8a4c-e2de65f6d5ae,12/21/2023 13:30,Gross Domestic Product Annualized,HIGH,USD
+afc3187d-ec56-48ca-aacf-fb7dad17a85c,12/22/2023 13:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+5e40acc5-587c-4460-ad72-0f70ddefde56,12/22/2023 13:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+01ef517e-db6b-401c-a8f2-3d8f6ea10a48,1/3/2024 15:00,ISM Manufacturing PMI,HIGH,USD
+ec39a3a0-0c74-4bab-b2e0-38a7c89d7272,1/3/2024 19:00,FOMC Minutes,HIGH,USD
+0bab9dbd-2175-490c-8a23-c2c43f7d70b8,1/4/2024 13:15,ADP Employment Change,HIGH,USD
+4e4bb9c7-37c5-4201-9684-b50257135de4,1/5/2024 13:30,Average Hourly Earnings (MoM),HIGH,USD
+12a05da1-2081-4e3a-be53-04f3ff87a393,1/5/2024 13:30,Average Hourly Earnings (YoY),HIGH,USD
+11304273-be2b-44d2-af8e-c41f7519ee0b,1/5/2024 13:30,Nonfarm Payrolls,HIGH,USD
+3e60df85-79b1-444f-9214-632897d8c139,1/5/2024 15:00,ISM Services PMI,HIGH,USD
+4156ce0a-0543-46d5-a37e-30242d5b9647,1/11/2024 13:30,Consumer Price Index (MoM),HIGH,USD
+b012ee7f-433c-4222-be63-c5fd9ce71d93,1/11/2024 13:30,Consumer Price Index (YoY),HIGH,USD
+acbffed1-debb-4633-9e65-93681ff45ac3,1/11/2024 13:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+a5db641e-ea75-4af8-abc9-a6ebb2ba232b,1/11/2024 13:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+5ad22743-fd4a-42a5-ab85-5646230afb33,1/12/2024 13:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+72a54797-3816-4881-bd45-9caf998b336a,1/17/2024 13:30,Retail Sales (MoM),HIGH,USD
+3bd828fd-58a9-4bf5-992e-e4669223d943,1/17/2024 13:30,Retail Sales Control Group,HIGH,USD
+13307a85-8979-4ac0-81b3-71ef50215e6f,1/19/2024 15:00,Michigan Consumer Sentiment Index,HIGH,USD
+56f97f69-327c-4245-9590-5d214e8833fa,1/24/2024 14:45,S&P Global Manufacturing PMI,HIGH,USD
+75276f61-da7d-4a42-9db3-b3f565776309,1/24/2024 14:45,S&P Global Services PMI,HIGH,USD
+223e7e96-f6cb-4b16-8805-eace32ad753b,1/25/2024 13:30,Gross Domestic Product Annualized,HIGH,USD
+c0c4dc4c-7fa3-4254-bd4a-ed3cdd1668db,1/26/2024 13:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+9825b6f9-209e-4e9b-ae0f-f09c0831e942,1/26/2024 13:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+c4ab22ed-01bf-4e26-a011-4301bbcae78a,1/31/2024 13:15,ADP Employment Change,HIGH,USD
+24bac98f-52da-4619-bfc2-baf9d3e96bc9,1/31/2024 19:00,Fed Interest Rate Decision,HIGH,USD
+4802f03a-194a-4f8e-91f5-3cd92feafb96,1/31/2024 19:00,Fed Monetary Policy Statement,HIGH,USD
+b1c5925b-12fa-4c06-a499-4dde3d96f377,1/31/2024 19:30,FOMC Press Conference,HIGH,USD
+ccf63a68-65da-44fd-b071-be1e4d718865,2/1/2024 15:00,ISM Manufacturing PMI,HIGH,USD
+e8f4e149-171c-433a-b33e-189e4d34f70d,2/2/2024 13:30,Average Hourly Earnings (MoM),HIGH,USD
+07c74385-5d72-41e5-8f67-aeefe04df7a3,2/2/2024 13:30,Average Hourly Earnings (YoY),HIGH,USD
+b743d3ae-25ed-43f5-a648-9b6a5da66ad6,2/2/2024 13:30,Nonfarm Payrolls,HIGH,USD
+61d26d42-bee0-4b94-b665-591e56e24134,2/5/2024 0:00,Fed's Chair Powell speech,HIGH,USD
+152bac0c-952c-497d-924a-fba149fef38a,2/5/2024 15:00,ISM Services PMI,HIGH,USD
+83939feb-903c-4460-9ace-54f1f975d814,2/13/2024 13:30,Consumer Price Index (MoM),HIGH,USD
+899d6d84-53b3-4d70-a060-8810eda5c232,2/13/2024 13:30,Consumer Price Index (YoY),HIGH,USD
+f0b68b43-bc91-4204-99fd-75de368772e2,2/13/2024 13:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+ea9ac7b8-620c-49d1-b152-4c294757e3fe,2/13/2024 13:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+90abc609-1cbb-4ed7-8383-1c37e13ef193,2/15/2024 13:30,Retail Sales (MoM),HIGH,USD
+f19dfa7c-1c47-40c6-991c-4d0e1bfda9a2,2/15/2024 13:30,Retail Sales Control Group,HIGH,USD
+b194c2cb-ad59-48be-a680-7475fc5dd7ba,2/16/2024 13:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+c4e93832-73a9-4312-a292-5ed75e4f6697,2/16/2024 15:00,Michigan Consumer Sentiment Index,HIGH,USD
+289ed155-4b53-44b3-97c7-73226fcbb98b,2/21/2024 19:00,FOMC Minutes,HIGH,USD
+16747a89-69d0-4e90-9d41-e2b93747e878,2/22/2024 14:45,S&P Global Manufacturing PMI,HIGH,USD
+7bf198c8-e066-4507-933e-227b135add9b,2/22/2024 14:45,S&P Global Services PMI,HIGH,USD
+a17b603d-8b6a-4a5c-9268-43298f1d7319,2/28/2024 13:30,Gross Domestic Product Annualized,HIGH,USD
+71f327c1-0319-4817-bb87-8955bdad9753,2/29/2024 13:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+a16338c4-3ed6-4020-801f-60f4c683ce55,2/29/2024 13:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+3011b2d9-2123-40f3-b478-5b16a0fafa4d,3/1/2024 15:00,ISM Manufacturing PMI,HIGH,USD
+5a5bb025-8c62-499c-ade6-0111b21f3c8e,3/5/2024 15:00,ISM Services PMI,HIGH,USD
+5cbc4435-79f2-4ce2-854f-c95a3ad82c53,3/6/2024 13:15,ADP Employment Change,HIGH,USD
+8cdac768-0a61-4085-96ec-8243f8690a53,3/6/2024 15:00,Fed's Chair Powell testifies,HIGH,USD
+505ed791-9545-4533-b18a-5da3cb6009ec,3/7/2024 15:00,Fed's Chair Powell testifies,HIGH,USD
+1e3f8324-6374-40f5-b240-52a679877a5b,3/8/2024 13:30,Average Hourly Earnings (MoM),HIGH,USD
+fee030c1-df00-46a0-97db-078de9c16d03,3/8/2024 13:30,Average Hourly Earnings (YoY),HIGH,USD
+7779b414-cc73-486e-b012-6c96bb74fbc1,3/8/2024 13:30,Nonfarm Payrolls,HIGH,USD
+db50acf4-6b9b-4bc5-8227-ed269806f4d0,3/12/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+10f28ea8-a9b3-4158-926d-bcdbdd6a01c1,3/12/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+e8f4252d-a0b0-4a6c-9b8f-2f63ed6f9cf1,3/12/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+809767b3-c1f2-414d-b1cd-71891ae08ef0,3/12/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+ee414a77-27b4-4953-9805-5c2e643f10aa,3/14/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+20934cac-3cb3-4ca7-8f6b-8b3726bd55e3,3/14/2024 12:30,Retail Sales (MoM),HIGH,USD
+1f179e25-9e99-451e-b50c-df001165a543,3/14/2024 12:30,Retail Sales Control Group,HIGH,USD
+726ed2a5-9dbe-49b4-b76e-5edf69655f48,3/15/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+16e85ee7-b7fe-49c0-89bf-b0da29375f9c,3/20/2024 18:00,Fed Interest Rate Decision,HIGH,USD
+9bcd96aa-ea29-4e29-b8db-056fc6e639eb,3/20/2024 18:00,Fed Monetary Policy Statement,HIGH,USD
+14a415e2-9545-4beb-a871-0f2058bca415,3/20/2024 18:00,FOMC Economic Projections,HIGH,USD
+aa1cecef-f4e6-4bcf-afe4-ed35b866ef51,3/20/2024 18:00,Interest Rate Projections - 1st year,HIGH,USD
+96e1e3a9-a562-411e-9b2a-85d480c6f639,3/20/2024 18:00,Interest Rate Projections - 2nd year,HIGH,USD
+c06c33e5-4dfa-4789-82e7-970be39135c9,3/20/2024 18:00,Interest Rate Projections - Current,HIGH,USD
+2c3a43fe-7b91-46be-a8db-56cb9be0d96b,3/20/2024 18:00,Interest Rate Projections - Longer,HIGH,USD
+f453185d-c0a5-4b97-aa27-3273e8832ce6,3/20/2024 18:30,FOMC Press Conference,HIGH,USD
+14581cac-0550-4571-8640-5689d5fd977f,3/21/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+000a1ba7-663e-49e4-bcbc-2d9cc430b52a,3/21/2024 13:45,S&P Global Services PMI,HIGH,USD
+1d239b4c-3e14-4f4a-a259-e958a598fd52,3/22/2024 13:00,Fed's Chair Powell speech,HIGH,USD
+28ffb0df-7cb2-48a9-a40c-06d913c6ec89,3/28/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+5bc5c91c-9f6b-413b-9b1b-1ab5086e9a6b,3/29/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+18d081c2-674a-4c8b-946e-4c6d632c5367,3/29/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+d6b8c5f8-7da9-47a3-9969-e98a06651b91,3/29/2024 15:30,Fed's Chair Powell speech,HIGH,USD
+cfc2bea7-56ae-4a61-86c4-d1cc1a7619d5,4/1/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+9246e652-13d9-4b60-bfb2-6038375443e6,4/3/2024 12:15,ADP Employment Change,HIGH,USD
+c8d2864c-673d-44c0-9592-9e687efd5c6e,4/3/2024 14:00,ISM Services PMI,HIGH,USD
+fd035cee-9d39-4199-bd9d-e229d65afdeb,4/3/2024 16:10,Fed's Chair Powell speech,HIGH,USD
+eb260a09-4f1e-42b1-8916-cc289ca33440,4/5/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+9b57a2e8-f06a-4801-b738-6133a1257305,4/5/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+a0d0c562-bfcb-41a5-a280-f2ea3374a683,4/5/2024 12:30,Nonfarm Payrolls,HIGH,USD
+7fe0360e-8227-46c4-ac6f-b4dbc3e7253c,4/10/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+431c738f-a8d6-4e3c-a37f-f47fc0bbd003,4/10/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+6efd7935-6cb7-4b8f-a002-9cdc26fb6dbd,4/10/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+219a9f66-587a-492f-be72-48a819a9d4dd,4/10/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+b5e71b59-b529-423a-8512-62ff2281f09a,4/10/2024 18:00,FOMC Minutes,HIGH,USD
+3a8f30a0-e34d-4eea-a212-9232899e23bf,4/11/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+6c2d7efe-268a-4b49-80c0-eb7f422daf39,4/12/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+57c23a60-106c-4499-88ac-3a78aad19da4,4/15/2024 12:30,Retail Sales (MoM),HIGH,USD
+98478029-c3f0-452a-8cbb-ef6c5a781cad,4/15/2024 12:30,Retail Sales Control Group,HIGH,USD
+96145552-dd8e-4e02-b930-9f06f0ef7b14,4/16/2024 17:15,Fed's Chair Powell speech,HIGH,USD
+0c69c640-fbad-4a55-a338-d005048aa055,4/23/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+190538ae-5c2f-4947-b43a-c30e3bbbe592,4/23/2024 13:45,S&P Global Services PMI,HIGH,USD
+05c42a1a-a8ce-4176-9fb5-da8177359ba3,4/25/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+c2f82f99-d8de-4c17-b315-b1d91fa53ac5,4/26/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+d7978cf8-32c4-4d04-87b8-a5a7faae5d0b,4/26/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+f0f44325-d7c5-40d0-ba12-5231f37d0277,5/1/2024 12:15,ADP Employment Change,HIGH,USD
+3c432064-a466-4841-a2be-cd4b24020b92,5/1/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+944c8b22-f6d3-4950-a92c-e6d9e680189a,5/1/2024 18:00,Fed Interest Rate Decision,HIGH,USD
+e294d143-ee70-4282-a8ef-506cad81a927,5/1/2024 18:00,Fed Monetary Policy Statement,HIGH,USD
+42747728-22d9-42b4-b0ea-5d72516267f5,5/1/2024 18:30,FOMC Press Conference,HIGH,USD
+cfcbf402-88fe-4b56-a2ee-edf9c682e884,5/3/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+2b6ab655-407d-4ad3-8aac-558c5769df24,5/3/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+e532a443-09fb-4e99-ac88-87ab5d005047,5/3/2024 12:30,Nonfarm Payrolls,HIGH,USD
+a6eea918-4778-45a7-ab84-d6940d600a93,5/3/2024 14:00,ISM Services PMI,HIGH,USD
+74070365-414c-4018-92bc-b46947a11c6d,5/10/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+93b4dc24-82ac-4036-8188-38cf32b77ac9,5/14/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+c0d255d7-a4ba-4c9e-8824-496d960a2665,5/14/2024 14:00,Fed's Chair Powell speech,HIGH,USD
+ba11ba03-e75c-4904-8726-322da9834feb,5/15/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+b1947ed4-e348-415f-8e2d-4cd78f0bea6d,5/15/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+0b6e6a86-d3f1-4066-a3dd-5f96fe94a62a,5/15/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+f3936409-a898-489c-a41a-2b4662cbfd86,5/15/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+eba47dfd-811f-42e2-8635-ce828d248de3,5/15/2024 12:30,Retail Sales (MoM),HIGH,USD
+bcb760e9-e237-4cf6-8f80-0faeea8c946e,5/15/2024 12:30,Retail Sales Control Group,HIGH,USD
+973ada95-75e6-439c-a990-70abac576a1e,5/22/2024 18:00,FOMC Minutes,HIGH,USD
+27f44280-2ec2-4db2-8963-b9bd326f6049,5/23/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+e689aaff-1b02-4698-b1e3-91d6fada7e43,5/23/2024 13:45,S&P Global Services PMI,HIGH,USD
+ef0a5346-b763-40bc-a148-15be3eb7e350,5/30/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+23b28de1-2386-4381-8294-80898eac79a8,5/31/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+6fe54006-8a3d-4bcc-9215-7c1cb909b430,5/31/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+e0099a71-f1eb-4122-9b05-ee5bdc83b489,6/3/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+12a4af11-528c-4b71-a762-a8ab4a5ee696,6/5/2024 12:15,ADP Employment Change,HIGH,USD
+ccadfde5-b527-41b3-b626-b0a3db0f51a6,6/5/2024 14:00,ISM Services PMI,HIGH,USD
+a6d93c85-e0b7-4f20-bed9-eb967763bdf9,6/7/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+a6bdc4ef-c52b-4153-91e2-30c12f652cfe,6/7/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+02f7b02e-6293-4a92-b748-29b8b59ed57d,6/7/2024 12:30,Nonfarm Payrolls,HIGH,USD
+692a0a53-8e38-4588-affb-747bb96541f4,6/12/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+a3cecf53-7c01-4ff1-b177-06a1daeb8d96,6/12/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+6caa62a6-8da4-493c-8916-ca6fac45c35d,6/12/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+7ee20d60-b71a-4cf8-ba86-bc042470ce6a,6/12/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+6fb2b9ed-6aec-40cd-90c8-3b414b213a01,6/12/2024 18:00,Fed Interest Rate Decision,HIGH,USD
+e6f11b2f-6dcb-40e7-8581-2726818e7d9a,6/12/2024 18:00,Fed Monetary Policy Statement,HIGH,USD
+e511d996-c0e0-4673-b7b5-c938df3c6f54,6/12/2024 18:00,FOMC Economic Projections,HIGH,USD
+545488af-fd1e-4cbb-b473-ab6dc5f7bd5f,6/12/2024 18:00,Interest Rate Projections - 1st year,HIGH,USD
+eb52681a-eb3f-4748-836c-b28b49f86c0e,6/12/2024 18:00,Interest Rate Projections - 2nd year,HIGH,USD
+eef925a8-c405-490b-b9f4-557582c428f7,6/12/2024 18:00,Interest Rate Projections - Current,HIGH,USD
+5ddc41e9-6fd9-445f-b551-fabed0e1abc4,6/12/2024 18:00,Interest Rate Projections - Longer,HIGH,USD
+a7370797-572e-4b6d-b93d-a5ec1673700c,6/12/2024 18:30,FOMC Press Conference,HIGH,USD
+fa287440-ac49-4a1b-a26b-694d5547f135,6/13/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+09cd0d29-3549-4b81-8761-8d9345ccce83,6/14/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+6520f5f8-f22d-491b-a924-96ef55c06dd5,6/18/2024 12:30,Retail Sales (MoM),HIGH,USD
+76594830-a15f-4111-bc79-c809bde58e2d,6/18/2024 12:30,Retail Sales Control Group,HIGH,USD
+4d629921-12cb-4527-ab38-c3672d6894ed,6/21/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+4947f836-491a-4901-b613-a49b3fdc1241,6/21/2024 13:45,S&P Global Services PMI,HIGH,USD
+3dcba318-b2f7-4581-9912-10de87031761,6/26/2024 20:30,Bank Stress Test Info,HIGH,USD
+05825a15-b7eb-4d0f-afb1-a6ed8b317696,6/27/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+e994d217-00e0-4f1d-b84b-c8647f2cb507,6/28/2024 1:00,Presidential Debate,HIGH,USD
+92be9e3a-d53c-4b47-8514-72762b648335,6/28/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+16a7ece9-a9a9-497c-9d99-458367bd28ed,6/28/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+d244d420-ec87-493b-a47d-5d5c81fa227d,7/1/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+34462c6b-57c4-460c-85ed-b0a7756bbccf,7/2/2024 13:30,Fed's Chair Powell speech,HIGH,USD
+a50eeba2-2c8f-402b-bc6a-e291ab53f37f,7/3/2024 12:15,ADP Employment Change,HIGH,USD
+0116ba2b-25d6-4165-82b8-765e44b31345,7/3/2024 14:00,ISM Services PMI,HIGH,USD
+cfbf6258-5d5d-470f-9a96-5f1aca608fa3,7/3/2024 18:00,FOMC Minutes,HIGH,USD
+b3371511-b943-4fb0-b2fc-def0f41a2b18,7/5/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+e7d95842-344f-493d-84d2-208e39719023,7/5/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+62e0ac67-cf5b-4289-bf55-c1f9cafe583c,7/5/2024 12:30,Nonfarm Payrolls,HIGH,USD
+a013b019-76f5-4a71-ad95-c3d27e64f029,7/9/2024 14:00,Fed's Chair Powell testifies,HIGH,USD
+8b03c7bc-053d-4c07-b65b-83bc96681215,7/10/2024 14:00,Fed's Chair Powell testifies,HIGH,USD
+9ad99420-1802-4e84-826c-d6c1734cb8d8,7/11/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+fded9b2c-60c8-4769-9240-c3527cce5fc6,7/11/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+4af987e0-6507-4655-a56f-362b77b648aa,7/11/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+62ee951b-b00d-489a-b8ce-3ce6e096fc00,7/11/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+392bce68-d9d2-4e18-b530-11f2358f130b,7/11/2024 23:30,President Biden speech,HIGH,USD
+f5159096-9efe-4812-bc90-81a4f2a8980e,7/12/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+f8f03971-0f7e-42a8-acfb-3a2f388178eb,7/12/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+c2512eb1-cd3b-4f98-903f-8dce1691f4ce,7/15/2024 16:30,Fed's Chair Powell speech,HIGH,USD
+e4b5c0c6-af31-4017-b757-6513d52db750,7/16/2024 12:30,Retail Sales (MoM),HIGH,USD
+d6ecacc8-e2b4-44c3-8628-0ff65068e034,7/16/2024 12:30,Retail Sales Control Group,HIGH,USD
+cfa64b39-6475-4dc6-8962-6b036f4987f8,7/24/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+9c39a63e-a61c-4620-be01-39695cbb2d9b,7/24/2024 13:45,S&P Global Services PMI,HIGH,USD
+16f72538-0671-47f1-9cd9-32a169cab546,7/25/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+dd7b781b-c422-4654-91d2-ad51be06f9b6,7/26/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+4c90b97b-f39b-4300-8640-747ed4f70e06,7/26/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+17b524dc-cef0-4d8f-afaa-603a34067bea,7/31/2024 12:15,ADP Employment Change,HIGH,USD
+e69b822c-5260-4c64-8ba0-96a2f7b86b81,7/31/2024 18:00,Fed Interest Rate Decision,HIGH,USD
+066cb2d8-e6aa-4658-89f4-11f9eb8925ca,7/31/2024 18:00,Fed Monetary Policy Statement,HIGH,USD
+982fe3c1-d98f-4f36-9d53-b17609163975,7/31/2024 18:30,Fed's Chair Powell speech,HIGH,USD
+474d8afb-7871-4525-83fe-57c588147326,7/31/2024 18:30,FOMC Press Conference,HIGH,USD
+70c9f73b-966c-4f4f-adcc-3cf59323a8b0,8/1/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+d6608227-fc15-4411-8b5a-87e1bfa6818a,8/2/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+8785209f-c9c4-40c4-bbf9-03ac8d0f0f2c,8/2/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+31cd7767-6011-4122-80df-d3f72915b277,8/2/2024 12:30,Nonfarm Payrolls,HIGH,USD
+a27219a6-eb7b-471d-afe4-dcfff48377d0,8/5/2024 14:00,ISM Services PMI,HIGH,USD
+4cb06579-af30-4022-9cbd-b654d16924d7,8/13/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+ae91dcf5-0223-4ab5-bbb6-65b2a208e41a,8/14/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+0d3befa2-3de5-4ff5-be1e-d7547d80ad26,8/14/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+664cbc74-af75-42a6-9f7e-f1cbcec3f48d,8/14/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+eee5b4bf-b85c-44e7-939e-5883bdbc8035,8/14/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+57be1b76-a29e-4801-be5a-5a34eb1251d8,8/15/2024 12:30,Retail Sales (MoM),HIGH,USD
+be44aa68-7dd9-430f-89cf-96464f7d950a,8/15/2024 12:30,Retail Sales Control Group,HIGH,USD
+4e6d413f-bb26-4f96-bac4-6557f101b082,8/16/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+f918dfff-3bdd-4941-8b07-043333423c1f,8/21/2024 18:00,FOMC Minutes,HIGH,USD
+27e9ab07-bfcd-4e07-9a79-a393898b6494,8/22/2024 0:00,Jackson Hole Symposium,HIGH,USD
+4bb4f7c6-f815-49aa-94c9-a5e317f19749,8/22/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+7370230e-7809-499b-99f0-9fa947a0a5fe,8/22/2024 13:45,S&P Global Services PMI,HIGH,USD
+20cb304b-90de-42be-858d-dd2888b850f6,8/23/2024 0:00,Jackson Hole Symposium,HIGH,USD
+84dc6495-645c-48b1-b103-8a59e8234ea9,8/23/2024 14:00,Fed's Chair Powell speech,HIGH,USD
+7eaa9dbc-d0ce-4139-a422-9a5b2c5298f5,8/24/2024 0:00,Jackson Hole Symposium,HIGH,USD
+0edec41f-3868-4437-8f57-130c6193c40b,8/29/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+b66d93fe-2fc4-48e7-b5da-769d35d73d79,8/30/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+134260b4-defc-45ca-a133-65976aa2e4fe,8/30/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+7bd664bd-0bb1-4003-a140-7c3b7be2fd90,9/3/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+6ddd5d07-9c64-4971-ba5b-15d673b415ab,9/5/2024 12:15,ADP Employment Change,HIGH,USD
+1624b9ca-dd95-428e-91f4-0fc07757738c,9/5/2024 14:00,ISM Services PMI,HIGH,USD
+64cde5ec-4ff1-4bd0-9ab2-a9e5c5c41f96,9/6/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+f93348c0-3fad-47ed-95ff-0b873dea699d,9/6/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+ab8af925-3320-4dd3-a5d1-c3f48bd19a76,9/6/2024 12:30,Nonfarm Payrolls,HIGH,USD
+e5aa6af7-396b-4f20-856b-4b377e5ae85e,9/11/2024 1:00,Presidential Debate,HIGH,USD
+c618959a-c2f8-4d84-8b4f-8f4ca7e6175a,9/11/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+1e88932a-2140-4758-832d-6d67b9c6af5d,9/11/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+80a4209d-b348-478d-ab3b-26486ede8325,9/11/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+385b8790-5c3e-49e9-bf81-4bff7dfa6031,9/11/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+b49e0329-d9a4-4984-83c3-8137dfda1c52,9/12/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+cb2010cc-4bfe-4fd8-9920-b6ccd819c57d,9/13/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+70f20cbc-0560-4412-bb4e-78c11f289a08,9/17/2024 12:30,Retail Sales (MoM),HIGH,USD
+a3f11b85-f375-40f7-ace4-5d3904680079,9/17/2024 12:30,Retail Sales Control Group,HIGH,USD
+99ae9158-1a84-4b97-875f-061074285a06,9/18/2024 18:00,Fed Interest Rate Decision,HIGH,USD
+29dd443a-53fa-40e9-8b8c-094a38670855,9/18/2024 18:00,Fed Monetary Policy Statement,HIGH,USD
+d40e23e5-5763-47e9-94d9-00ae6c5846b5,9/18/2024 18:00,FOMC Economic Projections,HIGH,USD
+c1e6c68b-6878-4617-9fe9-c32906168b65,9/18/2024 18:00,Interest Rate Projections - 1st year,HIGH,USD
+e4ca80fe-45dc-4b78-931d-933000cdd60a,9/18/2024 18:00,Interest Rate Projections - 2nd year,HIGH,USD
+f41b3df3-4fe4-4fe6-a20e-4fe8bbac7385,9/18/2024 18:00,Interest Rate Projections - 3rd year,HIGH,USD
+9205ad79-91b1-4c89-81b8-bff0cb9263a3,9/18/2024 18:00,Interest Rate Projections - Current,HIGH,USD
+c1824fe5-4606-4f1b-a28f-aa507c78f57e,9/18/2024 18:00,Interest Rate Projections - Longer,HIGH,USD
+7e7a5992-6e11-4fbf-839f-738c1d6d0fbd,9/18/2024 18:30,FOMC Press Conference,HIGH,USD
+295bb3e8-f623-4571-aa67-d244894e3971,9/23/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+37b09982-8f33-46d6-9ba7-84a5d7b8ef82,9/23/2024 13:45,S&P Global Services PMI,HIGH,USD
+e32c80cd-14e1-4621-b1df-1b9ecb60e049,9/26/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+c3cea3d9-fd79-42fd-a612-b98a82eb2091,9/26/2024 13:20,Fed's Chair Powell speech,HIGH,USD
+a5fb75aa-3e85-4c7f-8755-faea986dad06,9/27/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+b8de50ef-bd88-4180-a6eb-815d1da91b9d,9/27/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+0db968f0-6926-45a9-af81-8a42e71d402d,9/30/2024 18:00,Fed's Chair Powell speech,HIGH,USD
+9520e1db-b5cb-47c4-8b80-99da15876c5a,10/1/2024 14:00,ISM Manufacturing PMI,HIGH,USD
+239a0ed5-ff3d-46a4-a689-f51a6ba82e99,10/2/2024 12:15,ADP Employment Change,HIGH,USD
+78cbf0b6-a21f-4ff0-a3d2-a1d42fe06782,10/3/2024 14:00,ISM Services PMI,HIGH,USD
+bf9cb126-68a2-451e-9632-b0c5e2f5b2d0,10/4/2024 12:30,Average Hourly Earnings (MoM),HIGH,USD
+aadc8351-1291-412d-8e89-1fc7f0c45396,10/4/2024 12:30,Average Hourly Earnings (YoY),HIGH,USD
+864cc8a9-9de3-468e-bd7d-3bee52ad1267,10/4/2024 12:30,Nonfarm Payrolls,HIGH,USD
+928dcb05-f76d-4caa-8347-39fe0f63b666,10/9/2024 18:00,FOMC Minutes,HIGH,USD
+b5e85594-5001-4bc6-95e8-087f9f877640,10/10/2024 12:30,Consumer Price Index (MoM),HIGH,USD
+74069a03-5aee-49f0-9b0d-5401572c718b,10/10/2024 12:30,Consumer Price Index (YoY),HIGH,USD
+d78b0fcf-7c20-42c4-ad74-065e8226b525,10/10/2024 12:30,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+d8009df6-f719-428c-8d05-3e6b156e6df3,10/10/2024 12:30,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+593ea56a-63e3-493f-ba37-edef403858aa,10/11/2024 12:30,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+b408460d-94ba-488b-a52e-91307a48a6bc,10/11/2024 14:00,Michigan Consumer Sentiment Index,HIGH,USD
+7037085e-6014-4b13-bb35-3db4acd3c281,10/17/2024 12:30,Retail Sales (MoM),HIGH,USD
+bd435db9-1e17-4f8c-ba8b-5806e19da971,10/17/2024 12:30,Retail Sales Control Group,HIGH,USD
+df2b9ff3-30eb-4bec-8a58-426cfba5c8ff,10/24/2024 13:45,S&P Global Manufacturing PMI,HIGH,USD
+40571900-e61b-43e1-916d-8fcae5117b11,10/24/2024 13:45,S&P Global Services PMI,HIGH,USD
+4d8bb8bc-b714-41fb-a995-c7b55faecf05,10/30/2024 12:15,ADP Employment Change,HIGH,USD
+b24ef0d4-67bd-4592-adac-9c50ff28774e,10/30/2024 12:30,Gross Domestic Product Annualized,HIGH,USD
+9d192f6e-7db9-4e1b-80fc-64a37206f6cd,10/31/2024 12:30,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+c847d73a-316b-418e-bbd2-c2d0d2e6d4e6,10/31/2024 12:30,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
